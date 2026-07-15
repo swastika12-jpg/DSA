@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/swastika12-jpg/DSA/tree/master/0039-combination-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swastika12-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/swastika12-jpg/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/swastika12-jpg/DSA/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/swastika12-jpg/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
