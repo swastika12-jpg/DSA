@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/swastika12-jpg/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/swastika12-jpg/DSA/tree/master/0039-combination-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swastika12-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0560-subarray-sum-equals-k](https://github.com/swastika12-jpg/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/swastika12-jpg/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/swastika12-jpg/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/swastika12-jpg/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/swastika12-jpg/DSA/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/swastika12-jpg/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/swastika12-jpg/DSA/tree/master/0039-combination-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/swastika12-jpg/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
