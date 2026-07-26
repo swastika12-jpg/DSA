@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/swastika12-jpg/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/swastika12-jpg/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/swastika12-jpg/DSA/tree/master/0039-combination-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swastika12-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/swastika12-jpg/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/swastika12-jpg/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/swastika12-jpg/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/swastika12-jpg/DSA/tree/master/0202-happy-number) |
